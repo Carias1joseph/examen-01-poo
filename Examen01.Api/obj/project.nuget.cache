@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5hRnTPdtLU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\projects\\poo\\examen-01-poo\\Examen01.Api\\Examen01.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

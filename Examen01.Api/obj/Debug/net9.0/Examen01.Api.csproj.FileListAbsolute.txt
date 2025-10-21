@@ -1,0 +1,9 @@
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.csproj.AssemblyReference.cache
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.AssemblyInfoInputs.cache
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.AssemblyInfo.cs
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\projects\poo\examen-01-poo\Examen01.Api\obj\Debug\net9.0\Examen01.Api.sourcelink.json
